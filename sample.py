@@ -1,4 +1,4 @@
-print("heelo")
+print("he")
 
 
 print("no")
